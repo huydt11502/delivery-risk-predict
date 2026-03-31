@@ -131,7 +131,3 @@ pip install -r requirements.txt
 2. Tao branch moi (`feature/ten-tinh-nang`).
 3. Commit thay doi ro rang.
 4. Tao pull request.
-
-## Author
-
-Thong tin tac gia/nhom co the them tai day truoc khi public GitHub.
